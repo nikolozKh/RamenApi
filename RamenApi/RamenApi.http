@@ -1,0 +1,6 @@
+@RamenApi_HostAddress = http://localhost:5128
+
+GET {{RamenApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
